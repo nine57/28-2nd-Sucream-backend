@@ -12,11 +12,8 @@
 - 개발 인원 : 프론트엔드 3명, 백엔드 2명
 - [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/28-2nd-Sucream-backend.git)
 
-### 데모 영상(이미지 클릭)
-<br>
-
-[<img width=400px alt="Scuream_스크린샷" src="https://user-images.githubusercontent.com/65281583/150671430-10f1ffe4-7b49-4ba5-aac0-25334f5f6159.png"> <br>
-Web Page 데모 영상](https://youtu.be/zBTthX1EFLk)
+### 데모 영상 링크 (이미지 클릭)
+[<img width=400px alt="Scuream_스크린샷" src="https://user-images.githubusercontent.com/65281583/150671430-10f1ffe4-7b49-4ba5-aac0-25334f5f6159.png">](https://youtu.be/zBTthX1EFLk)
 
 [<img width=400px alt="Sucream_Server_스크린샷" src=""> <br>
 Web Server 응답 영상](https://youtu.be/)
